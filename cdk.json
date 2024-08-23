@@ -1,5 +1,5 @@
 {
-  "app": "pnpm tsx --prefer-ts-exts bin/lambda-s3-parser.ts",
+  "app": "pnpm tsx bin/lambda-s3-parser.ts",
   "watch": {
     "include": ["**"],
     "exclude": [
